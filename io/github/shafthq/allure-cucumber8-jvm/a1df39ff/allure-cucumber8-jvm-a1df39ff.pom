@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.shafthq</groupId>
+  <artifactId>allure-cucumber8-jvm</artifactId>
+  <version>a1df39ff</version>
+  <name>allure-cucumber8-jvm</name>
+  <description>Cucumber JVM 8 Allure adapter jar built from allure-java commit a1df39fffb1389ecbce951d617b5da3c49bb1a3a. Apache-2.0. No third-party dependencies are declared here; SHAFT already provides Allure 3 and Cucumber 8.</description>
+  <url>https://github.com/allure-framework/allure-java/pull/1455</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+</project>
